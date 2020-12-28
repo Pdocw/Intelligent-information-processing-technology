@@ -1,1 +1,1 @@
-#Intelligent information processing technology
+Intelligent information processing technology
