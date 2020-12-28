@@ -1,1 +1,1 @@
-# Principle-and-Application-of-Intelligent-Information-Processing-Technology
+#Intelligent information processing technology
